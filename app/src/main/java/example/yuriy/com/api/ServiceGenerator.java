@@ -10,7 +10,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class ServiceGenerator {
 
-    public static final String DOMAIN = "http://c9ff97c8.ngrok.io";  // quest domain //todo
+    public static final String DOMAIN = "http://questsapp.com";  // quest domain //todo
     public static final String API_V0 = DOMAIN + "/api/v0/";
 
     private static Retrofit.Builder builder =
